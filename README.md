@@ -33,6 +33,6 @@ I'm always eager to learn and work on exciting projects. Feel free to reach out 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BeforeLights&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Tung-Quan's Stats](https://github-readme-stats.vercel.app/api?username=Tung-Quan&theme=dracula&show_icons=true&hide_border=false&count_private=true)<br/>
+![Tung-Quan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tung-Quan&theme=dracula&hide_border=false)<br/>
+![Tung-Quan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tung-Quan&theme=dracula&show_icons=true&hide_border=false&layout=compact)
