@@ -4,14 +4,6 @@
 
 🚀 Aspiring Software Developer | Lifelong Learner
 
-💻 **Learning:** C++, Data Structures, Algorithms, and Low-Level Programming  
-🛠 **Currently working on:** MIPS Assembly projects, Binary Trees, and exploring the **xtensor** library
-
-🎯 My Focus:
-
-Writing efficient, clean, and well-documented code.
-Tackling real-world problems with creativity and logic.
-Contributing to open-source and learning from the community.
 ## 🧠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css)](https://skillicons.dev)
 
