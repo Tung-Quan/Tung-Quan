@@ -4,26 +4,45 @@
 
 🚀 Aspiring Software Developer | Lifelong Learner
 
-🔍 About Me:
-
-🌟 University student in Vietnam 🇻🇳, diving deep into the world of programming and technology.
-
-💻 Learning about C++, data structures, algorithms, and low-level programming.
-
-🛠 Currently working on MIPS assembly projects and exploring binary trees and the xtensor library.
+💻 **Learning:** C++, Data Structures, Algorithms, and Low-Level Programming  
+🛠 **Currently working on:** MIPS Assembly projects, Binary Trees, and exploring the **xtensor** library
 
 🎯 My Focus:
 
 Writing efficient, clean, and well-documented code.
 Tackling real-world problems with creativity and logic.
 Contributing to open-source and learning from the community.
+## 🧠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css)](https://skillicons.dev)
 
-💡 Fun Fact:
+💻 **Learning:** C++, Data Structures, Algorithms, and Low-Level Programming  
+🛠 **Currently working on:** 
+Web development, interested to be full-stack developer
+MIPS Assembly projects, Binary Trees, and exploring the **xtensor** library
 
-I enjoy working with practical problem-solving.
+🛠 **Currently working on:**  
+MIPS Assembly projects, Binary Trees, and exploring the **xtensor** library.
 
-🚀 Let's Connect!
+🎯 **My Focus:**  
+- Writing efficient, clean, and well-documented code.  
+- Building modern web applications with full-stack technologies.  
+- Exploring **Cybersecurity** and deepening my knowledge of **backend architectures**.  
+- Tackling real-world problems with creativity and logic.  
+- Contributing to open-source and learning from the community.
 
+💡 **Fun Fact:**  
+I love practical problem-solving and turning ideas into working systems.
+
+🚀 **Let's Connect!**  
+I’m always open to learning, collaborating, and tackling new challenges.
+
+
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/qu%C3%A2n-l%C3%A2m-minh-t%C3%B9ng-80b451320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.facebook.com/quan.lamminhtung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@andermendoza" height="30" width="40" /></a>
+</p></br>
 I’m always open to learning, collaborating, and tackling new challenges.
 
 📫 Let's Collaborate:
